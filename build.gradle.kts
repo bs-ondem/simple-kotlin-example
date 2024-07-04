@@ -10,13 +10,15 @@ repositories {
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.8.0")
+    implementation("io.arrow-kt:arrow-core:1.1.3")
+
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 }
 
 tasks.test {
     useJUnitPlatform()
 }
+
 kotlin {
     jvmToolchain(17)
 }

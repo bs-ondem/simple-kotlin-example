@@ -1,0 +1,5 @@
+package_configurations:
+  - id: "Maven:io.arrow-kt:arrow-core:1.1.3"
+    source_artifact_url: "https://repo1.maven.org/maven2/io/arrow-kt/arrow-core/1.1.3/arrow-core-1.1.3-sources.jar"
+  - id: "Maven:io.arrow-kt:arrow-core:1.1.3"
+    source_artifact_url: "https://repo1.maven.org/maven2/io/arrow-kt/arrow-core/1.1.3/arrow-core-1.1.3-sources.jar"
